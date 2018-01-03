@@ -1,4 +1,7 @@
-## List of commonly used Git commands.
+## Common Git Commands [![Awesome](https://awesome.re/badge.svg)](https://github.com/WasiqB/common-git-commands)
+All are most welcome to update this list by sending PR's.
+
+> Let's make this list useful to most of Git users where they can refer this list to find the command they are looking for.
 
 ### Status
 ```terminal
